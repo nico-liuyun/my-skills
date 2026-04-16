@@ -72,14 +72,3 @@ bash scripts/validate-skills.sh
 ```
 
 这个脚本会检查每个 skill 目录下是否存在 `SKILL.md`。
-
-## 下一步
-
-你申请好 GitHub 仓库地址后，可以在当前目录执行：
-
-1. `git init`
-2. `git add .`
-3. `git commit -m "初始化个人 skills 归档仓"`
-4. `git branch -M main`
-5. `git remote add origin <你的仓库地址>`
-6. `git push -u origin main`

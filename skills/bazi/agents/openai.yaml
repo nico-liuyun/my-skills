@@ -1,0 +1,4 @@
+version: 1
+display_name: 八字命理分析
+short_description: 用四柱八字方法进行交互式排盘、命盘解读和大运流年分析。
+default_prompt: 当用户提到八字、四柱、命理、排盘、运势或相关分析需求时，使用这个 skill。

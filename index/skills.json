@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "bazi",
+    "path": "skills/bazi",
+    "has_skill_md": true
+  },
+  {
+    "name": "mao-zedong-perspective",
+    "path": "skills/mao-zedong-perspective",
+    "has_skill_md": true
+  }
+]
