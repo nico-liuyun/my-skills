@@ -1,0 +1,4 @@
+version: 1
+display_name: 示例 Skill
+short_description: 请替换成在技能列表中展示的简短说明。
+default_prompt: 当任务符合该 skill 的说明和流程时使用它。
